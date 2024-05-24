@@ -2,4 +2,6 @@ groq
 httpx
 fastapi
 pydantic
+python-dotenv
+uvicorn
 
